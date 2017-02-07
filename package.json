@@ -1,0 +1,22 @@
+{
+  "name": "dmdrn-iconfont",
+  "version": "0.0.1",
+  "description": "demodern iconfont",
+  "main": "index.js",
+  "scripts": {
+    "build": "node lib/iconfonts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:demodern/dmdrn-iconfont.git"
+  },
+  "keywords": [
+    "iconfont"
+  ],
+  "author": "markus cecot <mc@demodern.de>",
+  "license": "ISC",
+  "devDependencies": {
+    "glob": "^7.0.5",
+    "webfonts-generator": "^0.3.5"
+  }
+}
