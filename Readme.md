@@ -16,6 +16,7 @@ add this package to your project using
 
 
 
+
 In Order to customize the icon font simple place your icons in `/icons` customize the name in `package.json` and run `npm run build`.
 
 
