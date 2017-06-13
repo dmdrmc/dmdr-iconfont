@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "build": "node lib/iconfonts.js",
-    "install": "echo 'install dmdr-iconfont'",
-    "preinstall": "echo 'preinstall dmdr-iconfont'",
-    "postinstall": "echo 'postinstall dmdr-iconfont'"
+    "install": "echo 'install dmdr-iconfont' > install.txt ",
+    "preinstall": "echo 'preinstall dmdr-iconfont' > preinstal.txt",
+    "postinstall": "echo 'postinstall dmdr-iconfont' > postinstall.txt"
   },
   "repository": {
     "type": "git",
