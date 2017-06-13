@@ -4,7 +4,8 @@
   "description": "demodern iconfont",
   "main": "index.js",
   "scripts": {
-    "build": "node lib/iconfonts.js"
+    "build": "node lib/iconfonts.js",
+    "install": "echo 'create folders'"
   },
   "repository": {
     "type": "git",
